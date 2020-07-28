@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PayParking": {
+      "commandName": "Project",
+      "commandLineArgs": "VacantLots",
+      "nativeDebugging": false
+    }
+  }
+}

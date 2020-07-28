@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "C24ss0aFZeJl306Ql5OevzKD5LirtJH7o2wanVrA5jvWIcZTRTiyg25X8YJzApBDPFkkm8th1dz/315npGPnqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sabina\\source\\repos\\PayParking\\PayParking\\PayParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sabina\\.nuget\\packages\\commanddotnet\\4.1.3\\commanddotnet.4.1.3.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\commanddotnet.ioc.simpleinjector\\3.0.0\\commanddotnet.ioc.simpleinjector.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\simpleinjector\\4.9.0\\simpleinjector.4.9.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sabina\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
